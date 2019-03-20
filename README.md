@@ -6,7 +6,7 @@ Gdoc2html is command-line tool that helps you to convert Google Docs to static H
 As a result, Gdoc2html is a simple static site generator, allows you to build static web sites from your Google Docs.
 
 ## Installation:
-Download the zip for the latest release and unzip it to any folder. Update your PATH environment variable (add path to the folder with gdocs2html.jar). Run ```java -jar gdocs2html.jar --version``` to check everything is working fine.
+Download the latest version of [gdocs2html.jar](https://github.com/pavel-chumakou/gdocs2html/releases/download/1.0.0/gdocs2html.jar) from the [releases](https://github.com/pavel-chumakou/gdocs2html/releases) and put it to any folder. Update your PATH environment variable (add path to the folder with gdocs2html.jar). Run ```java -jar gdocs2html.jar --version``` to check everything is working fine.
 
 Gdoc2html requires java version 1.7 or higher.
 
@@ -31,9 +31,9 @@ By default simple HTML template used:
 ```
 You can provide path to custom template using the following option: ```--template <pathToTemplateFile>```.
 Template could contain the following fields:
-- {{ title }} – title of the document (provided by ```--title <title>``` option)
-- {{ style }} – CSS styles of the Google Docs document
-- {{ body }} – HTML content of the Google Docs document
+- {{ title }} â€“ title of the document (provided by ```--title <title>``` option)
+- {{ style }} â€“ CSS styles of the Google Docs document
+- {{ body }} â€“ HTML content of the Google Docs document
 
 #### Batch processing:
 Use scripting for batch processing, below is an example (bat-script):
