@@ -65,6 +65,6 @@ java -jar gdocs2html.jar --title "Contact" --outputFile %OUTPUTDIR%\main\contact
 Gdocs2html is open-source software licensed under the MIT License.
 
 ## Contact
-Gdocs2html is developed by Pavel Chumakou. Please open an issue here with questions or bug/feature requests, or you can find my direct email here: http://chumakou.com/
+Gdocs2html is developed by Pavel Chumakou. Please open an issue here with questions or bug/feature requests, or you can find my contact information here: http://chumakou.com/
 
 
