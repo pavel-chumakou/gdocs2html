@@ -1,8 +1,8 @@
 # Gdocs2html
-Gdoc2html is a tool for converting Google Docs to HTML files.
+Gdocs2html is a tool for converting Google Docs to HTML files.
 
 ## Features:
-Gdoc2html is command-line tool that helps you to convert Google Docs to static HTML files. The main idea of this project is to remove annoying google redirect notices from converted HTML files. Also Gdoc2html supports simple web templates.
+Gdocs2html is command-line tool that helps you to convert Google Docs to static HTML files. The main idea of this project is to remove annoying google redirect notices from converted HTML files. Also Gdoc2html supports simple web templates.
 As a result, Gdoc2html could be used as a simple static site generator, it allows you to build static web sites from your Google Docs.
 
 ## Installation:
