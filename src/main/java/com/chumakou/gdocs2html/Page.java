@@ -49,7 +49,7 @@ public class Page {
 
     private static String removeRedirect(String body){
         String redirectPrefix = "https://www\\.google\\.com/url\\?q=";
-        String redirectPostfix = "&amp;sa=D&amp;ust=";
+        String redirectPostfix = "&amp;sa=D&amp;";
 
         body = body.replaceAll(redirectPrefix, "");
         while (body.indexOf(redirectPostfix) > 0) {
