@@ -6,13 +6,13 @@ import java.io.IOException;
  * Created by Pavel Chumakou on 16.03.2019.
  */
 public class Main {
-    public static void main(String args[]) throws IOException {
+    public static void main(String[] args) throws IOException {
 
         //defaults
         String title = "";
-        String outputFile = "./output.html";
+        String outputFile = "output.html";
         String template = ""; // by default will be used resources/template.html
-        String version = "1.0";
+        String version = "1.1";
 
         if (args.length == 0) {
             printUsage();
