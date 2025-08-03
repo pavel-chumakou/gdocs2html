@@ -5,7 +5,7 @@ Gdocs2html is a tool for converting Google Docs to HTML files.
 Gdocs2html is command-line tool that helps you to convert Google Docs to static HTML files. Gdoc2html supports simple web templates and can be used as a simple static site generator.
 
 ## Installation:
-Download the latest version of [gdocs2html.jar](https://github.com/pavel-chumakou/gdocs2html/releases/download/1.0.0/gdocs2html.jar) from the [releases](https://github.com/pavel-chumakou/gdocs2html/releases) and put it to any folder. Update your PATH environment variable by adding path to the folder containing gdocs2html.jar. Run ```java -jar gdocs2html.jar --version``` to check everything is working fine.
+Download the latest version of [gdocs2html.jar](https://github.com/pavel-chumakou/gdocs2html/releases/download/1.1.1/gdocs2html.jar) from the [releases](https://github.com/pavel-chumakou/gdocs2html/releases) and put it to any folder. Update your PATH environment variable by adding path to the folder containing gdocs2html.jar. Run ```java -jar gdocs2html.jar --version``` to check everything is working fine.
 
 Gdoc2html requires java version 9 or higher.
 
